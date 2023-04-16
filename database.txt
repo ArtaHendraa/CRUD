@@ -1,0 +1,6 @@
+purcell_2009_3,2009,purcell,BBC,calculus
+artahendra_2023_1,2023,artahendra,media chan,Python
+sakurajima mai_2024_5,2024,sakurajima mai,media chan,bunnygirl vol 1
+sakurajima mai_2024_2,2024,sakurajima mai,media chan,bunnygirl vol 2
+sakurajima mai_2024_3,2024,sakurajima mai,media chan,bunnygirl vol 3
+sakurajima mai_2024_4,2024,sakurajima mai,media chan,bunnygirl vol 4
